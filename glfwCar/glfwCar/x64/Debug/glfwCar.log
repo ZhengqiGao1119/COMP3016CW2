@@ -1,0 +1,35 @@
+﻿  main.cpp
+D:\Code\3016\cw2\glfwCar\glfwCar\main.cpp(326,93): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+D:\Code\3016\cw2\glfwCar\glfwCar\main.cpp(326,120): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+D:\Code\3016\cw2\glfwCar\glfwCar\main.cpp(327,34): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+D:\Code\3016\cw2\glfwCar\glfwCar\main.cpp(328,45): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+D:\Code\3016\cw2\glfwCar\glfwCar\main.cpp(337,12): warning C4305: “初始化”: 从“double”到“float”截断
+D:\Code\3016\cw2\glfwCar\glfwCar\main.cpp(382,12): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+D:\Code\3016\cw2\glfwCar\glfwCar\main.cpp(383,12): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+D:\Code\3016\cw2\glfwCar\glfwCar\main.cpp(462,52): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+D:\Code\3016\cw2\glfwCar\glfwCar\main.cpp(464,38): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+D:\Code\3016\cw2\glfwCar\glfwCar\main.cpp(465,36): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+D:\Code\3016\cw2\glfwCar\glfwCar\main.cpp(472,12): warning C4305: “初始化”: 从“double”到“float”截断
+D:\Code\3016\cw2\glfwCar\glfwCar\main.cpp(573,11): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+D:\Code\3016\cw2\glfwCar\glfwCar\main.cpp(587,44): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+D:\Code\3016\cw2\glfwCar\glfwCar\main.cpp(588,44): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+D:\Code\3016\cw2\glfwCar\glfwCar\main.cpp(589,48): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+D:\Code\3016\cw2\glfwCar\glfwCar\main.cpp(593,68): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+D:\Code\3016\cw2\glfwCar\glfwCar\main.cpp(594,68): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+D:\Code\3016\cw2\glfwCar\glfwCar\main.cpp(595,72): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+D:\Code\3016\cw2\glfwCar\glfwCar\main.cpp(727,25): warning C4305: “=”: 从“double”到“float”截断
+D:\Code\3016\cw2\glfwCar\glfwCar\main.cpp(798,22): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\Code\3016\cw2\glfwCar\glfwCar\main.cpp(833,57): warning C4305: “参数”: 从“double”到“float”截断
+D:\Code\3016\cw2\glfwCar\glfwCar\main.cpp(833,52): warning C4305: “参数”: 从“double”到“float”截断
+D:\Code\3016\cw2\glfwCar\glfwCar\main.cpp(833,47): warning C4305: “参数”: 从“double”到“float”截断
+D:\Code\3016\cw2\glfwCar\glfwCar\main.cpp(1086,16): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\Code\3016\cw2\glfwCar\glfwCar\main.cpp(1097,18): warning C4244: “+=”: 从“double”转换到“float”，可能丢失数据
+D:\Code\3016\cw2\glfwCar\glfwCar\main.cpp(1101,18): warning C4244: “-=”: 从“double”转换到“float”，可能丢失数据
+D:\Code\3016\cw2\glfwCar\glfwCar\main.cpp(1131,17): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\Code\3016\cw2\glfwCar\glfwCar\main.cpp(1132,17): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\Code\3016\cw2\glfwCar\glfwCar\main.cpp(1136,19): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\Code\3016\cw2\glfwCar\glfwCar\main.cpp(1137,19): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\Code\3016\cw2\glfwCar\glfwCar\main.cpp(1139,13): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\Code\3016\cw2\glfwCar\glfwCar\main.cpp(1140,13): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\Code\3016\cw2\glfwCar\glfwCar\main.cpp(1149,31): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+  glfwCar.vcxproj -> D:\Code\3016\cw2\glfwCar\x64\Debug\glfwCar.exe

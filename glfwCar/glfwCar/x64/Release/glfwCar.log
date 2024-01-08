@@ -1,0 +1,40 @@
+﻿  main.cpp
+C:\Users\imjia\Desktop\Sandbox\Opengl\glfwCar\glfwCar\main.cpp(327,93): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+C:\Users\imjia\Desktop\Sandbox\Opengl\glfwCar\glfwCar\main.cpp(327,120): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+C:\Users\imjia\Desktop\Sandbox\Opengl\glfwCar\glfwCar\main.cpp(328,34): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+C:\Users\imjia\Desktop\Sandbox\Opengl\glfwCar\glfwCar\main.cpp(329,45): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+C:\Users\imjia\Desktop\Sandbox\Opengl\glfwCar\glfwCar\main.cpp(338,12): warning C4305: “初始化”: 从“double”到“float”截断
+C:\Users\imjia\Desktop\Sandbox\Opengl\glfwCar\glfwCar\main.cpp(383,12): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+C:\Users\imjia\Desktop\Sandbox\Opengl\glfwCar\glfwCar\main.cpp(384,12): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+C:\Users\imjia\Desktop\Sandbox\Opengl\glfwCar\glfwCar\main.cpp(463,52): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+C:\Users\imjia\Desktop\Sandbox\Opengl\glfwCar\glfwCar\main.cpp(465,38): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+C:\Users\imjia\Desktop\Sandbox\Opengl\glfwCar\glfwCar\main.cpp(466,36): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+C:\Users\imjia\Desktop\Sandbox\Opengl\glfwCar\glfwCar\main.cpp(473,12): warning C4305: “初始化”: 从“double”到“float”截断
+C:\Users\imjia\Desktop\Sandbox\Opengl\glfwCar\glfwCar\main.cpp(574,11): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+C:\Users\imjia\Desktop\Sandbox\Opengl\glfwCar\glfwCar\main.cpp(588,44): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+C:\Users\imjia\Desktop\Sandbox\Opengl\glfwCar\glfwCar\main.cpp(589,44): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+C:\Users\imjia\Desktop\Sandbox\Opengl\glfwCar\glfwCar\main.cpp(590,48): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+C:\Users\imjia\Desktop\Sandbox\Opengl\glfwCar\glfwCar\main.cpp(594,68): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+C:\Users\imjia\Desktop\Sandbox\Opengl\glfwCar\glfwCar\main.cpp(595,68): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+C:\Users\imjia\Desktop\Sandbox\Opengl\glfwCar\glfwCar\main.cpp(596,72): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+C:\Users\imjia\Desktop\Sandbox\Opengl\glfwCar\glfwCar\main.cpp(728,25): warning C4305: “=”: 从“double”到“float”截断
+C:\Users\imjia\Desktop\Sandbox\Opengl\glfwCar\glfwCar\main.cpp(799,22): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+C:\Users\imjia\Desktop\Sandbox\Opengl\glfwCar\glfwCar\main.cpp(834,57): warning C4305: “参数”: 从“double”到“float”截断
+C:\Users\imjia\Desktop\Sandbox\Opengl\glfwCar\glfwCar\main.cpp(834,52): warning C4305: “参数”: 从“double”到“float”截断
+C:\Users\imjia\Desktop\Sandbox\Opengl\glfwCar\glfwCar\main.cpp(834,47): warning C4305: “参数”: 从“double”到“float”截断
+C:\Users\imjia\Desktop\Sandbox\Opengl\glfwCar\glfwCar\main.cpp(1087,16): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+C:\Users\imjia\Desktop\Sandbox\Opengl\glfwCar\glfwCar\main.cpp(1098,18): warning C4244: “+=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\imjia\Desktop\Sandbox\Opengl\glfwCar\glfwCar\main.cpp(1102,18): warning C4244: “-=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\imjia\Desktop\Sandbox\Opengl\glfwCar\glfwCar\main.cpp(1132,17): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\imjia\Desktop\Sandbox\Opengl\glfwCar\glfwCar\main.cpp(1133,17): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\imjia\Desktop\Sandbox\Opengl\glfwCar\glfwCar\main.cpp(1137,19): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+C:\Users\imjia\Desktop\Sandbox\Opengl\glfwCar\glfwCar\main.cpp(1138,19): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+C:\Users\imjia\Desktop\Sandbox\Opengl\glfwCar\glfwCar\main.cpp(1140,13): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\imjia\Desktop\Sandbox\Opengl\glfwCar\glfwCar\main.cpp(1141,13): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\imjia\Desktop\Sandbox\Opengl\glfwCar\glfwCar\main.cpp(1150,31): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+  正在生成代码
+  0 of 476 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  glfwCar.vcxproj -> C:\Users\imjia\Desktop\Sandbox\Opengl\glfwCar\x64\Release\glfwCar.exe
